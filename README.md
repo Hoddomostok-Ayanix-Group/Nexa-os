@@ -1,0 +1,2 @@
+# Nexa-os
+https://sites.google.com/view/nexa-os/home
